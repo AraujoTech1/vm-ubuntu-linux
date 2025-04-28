@@ -2,7 +2,7 @@
 <h1 align="center">VM Ubuntu Linux em Cloud</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=azure" width="100" />
   </a>
 </p>
 
