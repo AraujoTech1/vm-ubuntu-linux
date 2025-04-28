@@ -9,7 +9,7 @@
 
 <h1 align="center">VM Ubuntu Linux em Cloud</h1>
 
-Este projeto visa a criação e configuração de uma **máquina virtual Ubuntu 24.04 LTS** na plataforma **Azure**. O objetivo principal é fornecer um ambiente de desenvolvimento Linux acessível remotamente via SSH. A VM foi criada para ser usada como um ambiente de aprendizado e para implementar aplicativos, com a configuração de segurança e rede padrão para ambientes de produção.
+Este projeto visa a criação e configuração de uma **máquina virtual Ubuntu 24.04 LTS** na plataforma **Azure**. O objetivo principal é fornecer um ambiente de desenvolvimento **Linux** acessível remotamente **via SSH**. A VM foi criada para ser usada como um ambiente de aprendizado e para implementar aplicativos, com a configuração de segurança e rede padrão para ambientes de produção.
 A máquina virtual foi configurada usando o **Azure for Students**, e está configurada para ser acessada por meio de chave SSH, com um **endereço IP público** atribuído. O sistema operacional utilizado é o **Ubuntu 24.04 LTS**, uma distribuição Linux popular para servidores.
 
 ---
