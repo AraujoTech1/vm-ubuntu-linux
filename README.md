@@ -1,12 +1,12 @@
 
 <h1 align="center"> VM Ubuntu Linux em Cloud </h1>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure" />
   </a>
 </p>
 
+---
 
 ## Descrição 
 Este projeto visa a criação e configuração de uma **máquina virtual Ubuntu 24.04 LTS** na plataforma **Microsoft Azure**. O objetivo principal é fornecer um ambiente de desenvolvimento Linux acessível remotamente via SSH. A VM foi criada para ser usada como um ambiente de aprendizado e para implementar aplicativos, com a configuração de segurança e rede padrão para ambientes de produção.
