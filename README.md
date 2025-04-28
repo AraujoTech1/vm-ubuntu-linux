@@ -8,16 +8,19 @@
 </p>
 
 
-## Descrição do Projeto
+## Descrição 
 Este projeto visa a criação e configuração de uma **máquina virtual Ubuntu 24.04 LTS** na plataforma **Microsoft Azure**. O objetivo principal é fornecer um ambiente de desenvolvimento Linux acessível remotamente via SSH. A VM foi criada para ser usada como um ambiente de aprendizado e para implementar aplicativos, com a configuração de segurança e rede padrão para ambientes de produção.
+A máquina virtual foi configurada usando o **Azure for Students**, e está configurada para ser acessada por meio de chave SSH, com um **endereço IP público** atribuído. O sistema operacional utilizado é o **Ubuntu 24.04 LTS**, uma distribuição Linux popular para servidores.
 
-A máquina virtual foi configurada usando o **Azure for Students**, com uma assinatura gratuita, e está configurada para ser acessada por meio de chave SSH, com um **endereço IP público** atribuído. O sistema operacional utilizado é o **Ubuntu 24.04 LTS**, uma distribuição Linux popular para servidores.
+---
 
-## Funcionalidades do Projeto
+## Funcionalidades 
 - Criação e configuração de uma **máquina virtual** com Ubuntu no **Azure**.
 - Acesso remoto via **SSH** com segurança configurada através de **chaves SSH**.
 - **Configuração de rede** e atribuição de **endereço IP público**.
 - Possibilidade de expandir a configuração com **discos adicionais** e **aplicações de segurança**.
+
+---
 
 ## Testes de Software
 Os testes realizados incluem:
@@ -32,23 +35,28 @@ Os testes realizados incluem:
 3. **Teste de Segurança**:
    - Configuração de **Firewall** para garantir que apenas a porta SSH (22) está aberta para acessos externos.
    - **Resultado**: Acesso controlado via SSH e bloqueio de acessos indesejados.
-
-4. **Captura de Teste**:
-   - Captura de comandos e saídas realizadas durante os testes de conexão SSH.
-
+---
+ 
 ## Tecnologias e Linguagens
-- **Microsoft Azure** (Plataforma de cloud)
-- **Ubuntu 24.04 LTS** (Sistema operacional)
-- **SSH** (Protocolo para acessar a VM)
-- **PowerShell** / **Git Bash** (Ferramentas para conectar via SSH)
 
-## Bibliotecas e Frameworks
-- Nenhum framework ou biblioteca adicional foi necessário para este projeto.
+- ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-555555?style=flat-square&logo=microsoft-azure)
+  **Microsoft Azure** (Plataforma de cloud)
+- ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-555555?style=flat-square&logo=ubuntu)
+  **Ubuntu 24.04 LTS** (Sistema operacional)
+- ![SSH Badge](https://img.shields.io/badge/SSH-555555?style=flat-square&logo=ssh)
+  **SSH** (Protocolo para acessar a VM)
+- ![Git Bash Badge](https://img.shields.io/badge/Git_Bash-555555?style=flat-square&logo=gitbash)
+  **Git Bash** (Ferramentas para conectar via SSH)
+
+
+---
 
 ## Pré-requisitos e Instalações
 1. Conta no **Azure for Students**.
 2. **Git Bash** ou **PowerShell** instalado no computador local.
 3. **Chave SSH** gerada durante a criação da VM.
+
+---
 
 ## Instruções de Uso
 1. **Acesse o portal do Azure** e crie uma máquina virtual Ubuntu.
