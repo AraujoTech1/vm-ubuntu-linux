@@ -61,3 +61,5 @@ Os testes realizados incluem:
 4. Conecte-se à VM com o comando:
    ```bash
    ssh -i "caminho/para/sua/chave_privada" azureuser@<IP_PUBLICO_DA_VM>
+5. Após a conexão, você estará dentro da VM e poderá executar comandos Linux.
+   
