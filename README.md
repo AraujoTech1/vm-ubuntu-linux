@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" width="100" />
+    <img src="https://skillicons.dev/icons?i=azure" width="180" />
   </a>
 </p>
 
