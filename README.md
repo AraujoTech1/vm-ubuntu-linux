@@ -1,5 +1,5 @@
 
-<center> Máquina Virtual Ubuntu no Azure </center>
+<h1 align="center">Máquina Virtual Ubuntu no Azure</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
