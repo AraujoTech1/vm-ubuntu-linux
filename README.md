@@ -37,16 +37,12 @@ Os testes realizados incluem:
    - **Resultado**: Acesso controlado via SSH e bloqueio de acessos indesejados.
 ---
  
-## Tecnologias e Linguagens
+## Tecnologias  
 
-- ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-555555?style=flat-square&logo=microsoft-azure)
-- Plataforma de cloud
-- ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-555555?style=flat-square&logo=ubuntu)
-- Sistema operacional que foi criado
-- ![SSH Badge](https://img.shields.io/badge/SSH-555555?style=flat-square&logo=ssh)
-- Protocolo para acessar a VM
-- ![Git Bash Badge](https://img.shields.io/badge/Git_Bash-555555?style=flat-square&logo=gitbash)
-- Ferramentas para conectar via SSH
+- ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-555555?style=flat-square&logo=microsoft-azure)  - Plataforma de cloud
+- ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-555555?style=flat-square&logo=ubuntu)  - Sistema operacional que foi criado
+- ![SSH Badge](https://img.shields.io/badge/SSH-555555?style=flat-square&logo=ssh)  - Protocolo para acessar a VM
+- ![Git Bash Badge](https://img.shields.io/badge/Git_Bash-555555?style=flat-square&logo=gitbash)  - Ferramentas para conectar via SSH
 
 
 ---
