@@ -48,7 +48,7 @@ Os testes realizados incluem:
 ---
 
 ## Pré-requisitos e Instalações
-1. Conta no **Azure for Students**.
+1. Conta no **Azure**.
 2. **Git Bash** ou **PowerShell** instalado no computador local.
 3. **Chave SSH** gerada durante a criação da VM.
 
