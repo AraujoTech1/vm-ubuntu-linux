@@ -123,10 +123,23 @@ Copie e cole estes comandos aqui, diretamente nessa tela (nessa conexão SSH):
  > hostname && lsb_release -d && ip a | grep inet
 - Esse comando exibirá o nome da máquina, versão do Ubuntu e os IPs ativos.**
 
-## ✅ Resultado Final✅
+--- 
+
+## ✅ Resultado Final
 - A VM foi criada, configurada, atualizada, equipada com servidor web Apache, ferramentas essenciais, e está acessível via SSH com usuário e senha. O ambiente está pronto para desenvolvimento, testes ou aprendizado.
 
+--- 
 
+## ⚠️ Limitações  
 
+- A VM atual não tem suporte a gráficos pesados, então não é ideal para aplicações que exijam poder de processamento gráfico.
+- O Apache não foi configurado para redirecionamento HTTPS (SSL).
+
+---
+
+## 📖 Documentação
+
+- [Documentação do Azure](https://learn.microsoft.com/en-us/azure/)
+- [Documentação sobre Máquinas Virtuais no Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/)
 
 
