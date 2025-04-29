@@ -137,7 +137,7 @@ Copie e cole estes comandos aqui, diretamente nessa tela (nessa conexão SSH):
 
 ---
 
-## 📖 Documentação
+## 📜 Documentação
 
 - [Documentação do Azure](https://learn.microsoft.com/en-us/azure/)
 - [Documentação sobre Máquinas Virtuais no Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/)
